@@ -1,0 +1,26 @@
+\form#0:\[ \alpha \]
+\form#1:\[ \beta_1 \]
+\form#2:\[ \beta_2 \]
+\form#3:$\alpha$
+\form#4:$\beta_1$
+\form#5:$\beta_2$
+\form#6:$\sigma$
+\form#7:$softmax_i = \mathrm{exp}(-((x_j)- \hat{x})^2)/\sigma^2)$
+\form#8:$softmax_{j,i} = \mathrm{exp}(-(x_j- \hat{x})^2)/\sigma^2)$
+\form#9:$i^\mathrm{th}$
+\form#10:$j^\mathrm{th}$
+\form#11:$o_{j,i} = \frac{\mathrm{exp}(\frac{-(x_j- \hat{x_i})^2)}{\sigma^2)}}{Z}$
+\form#12:$x_j$
+\form#13:$\hat{x_i}$
+\form#14:$o_{j,i} = \frac{\mathrm{exp}(\frac{-(x_j- \hat{x_i})^2}{\sigma^2)})}{Z}$
+\form#15:$o_{j,i} = \mathrm{exp}\left(\frac{-(x_j- \hat{x_i}^2}{\sigma^2}\right)\frac{1}{Z}$
+\form#16:$o_{j,i} = \mathrm{exp}\left(\frac{-(x_j- \hat{x_i})^2}{\sigma^2}\right)\frac{1}{Z}$
+\form#17:\[o_{j,i} = \mathrm{exp}\left(\frac{-(x_j- \hat{x_i})^2}{\sigma^2}\right)\frac{1}{Z}\]
+\form#18:\[o_{j,i} = \mathrm{exp}\left(\frac{-(x_j- \bar{x_i})^2}{\sigma^2}\right)\frac{1}{Z}\]
+\form#19:$\bar{x_i}$
+\form#20:$Z= \sum_i o_{j,i}$
+\form#21:\[o_{j,i} = \mathrm{exp}\left(\frac{-(x_j- \bar{x_i})^2}{\sigma^2}\right)\frac{1}{Z_j}\]
+\form#22:$Z_j= \sum_i o_{j,i}$
+\form#23:$Z_j= \mathrm{exp}\left(\frac{-(x_j- \bar{x_i})^2}{\sigma^2}\right)$
+\form#24:\[Z_j= \sum_i \mathrm{exp}\left(\frac{-(x_j- \bar{x_i})^2}{\sigma^2}\right)\]
+\form#25:$dimension=size nDOF$
