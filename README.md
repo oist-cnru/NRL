@@ -270,9 +270,11 @@ NRL loads a configuration file specifying the parameters of the model. Some of t
 |---------|-----------|
 |datapath |Full path to the data-set |
 |modelpath|Full path to the model|
+|network|Neural network type (e.g. pvrnn, pvrnnbeta)|
 |robot|The robot name (e.g ‘cartesian’,’torobo’, ‘generic’)|
 |activejoints| A *delimiter* separated integer 1 (active) or 0 (Inactive), indicating the joint's activation (e.g. '1,1,0' the first two out of three joints are activated)|
 |nsamples| Integer number of samples per primitive separated by *delimiter* (e.g. '1,1,1' for three primitives with one sample each)|
+|w1|PV-RNN Beta: Real numbers for meta parameters *w* (at time t = 1) per layer for training the model (e.g '0.01,0.01' for a two-layered network)|
 |w|PV-RNN: Real numbers for meta parameters *w* per layer for training the model (e.g '0.025,0.025' for a two-layered network)|
 |d|PV-RNN: Integer number of *d* units per layer for training the model (e.g. '40,10' indicating 40 units in layer one and 10 units in layer two)|
 |z|PV-RNN: Integer number of *z* units per layer for training the model (e.g. '4,1' indicating 4 units in layer one and 1 units in layer two)|
@@ -348,7 +350,7 @@ In the table below it is presented the variable naming convention adopted in ord
 
 ## Work reference
 
-H. F. Chame, A. Ahmadi, J. Jun (2020) *Towards hybrid primary intersubjectivity: a neural robotics library for human science*
+Chame, H. F., Ahmadi, A., & Tani, J. (2020). [A hybrid human-neurorobotics approach to primary intersubjectivity via active inference](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.584869/full). *Frontiers in Psychology*, 11, 3207. 
 
 
 ## Contact

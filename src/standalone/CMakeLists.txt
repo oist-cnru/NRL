@@ -60,7 +60,10 @@ add_executable(NRL_SA main.cpp
 			../utils/Exception.cpp 
 			../network/NetworkPvrnn.cpp 
 			../layer/LayerPvrnn.cpp 
-			../context/ContextPvrnn.cpp 
+			../context/ContextPvrnn.cpp
+			../network/NetworkPvrnnBeta.cpp 
+			../layer/LayerPvrnnBeta.cpp 
+			../context/ContextPvrnnBeta.cpp  
 			../robot/Torobo.cpp 
 			../robot/Cartesian.cpp 			
 			../robot/Generic.cpp 

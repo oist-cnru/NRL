@@ -62,6 +62,9 @@ add_library(NRL SHARED
 			../network/NetworkPvrnn.cpp 
 			../layer/LayerPvrnn.cpp 
 			../context/ContextPvrnn.cpp 
+			../network/NetworkPvrnnBeta.cpp 
+			../layer/LayerPvrnnBeta.cpp 
+			../context/ContextPvrnnBeta.cpp 
 			../robot/Torobo.cpp 
 			../robot/Cartesian.cpp 			
 			../robot/Generic.cpp 

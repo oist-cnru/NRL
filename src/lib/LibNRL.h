@@ -61,6 +61,7 @@
 #include "../dataset/Dataset.h"
 #include "../network/INetwork.h"
 #include "../network/NetworkPvrnn.h"
+#include "../network/NetworkPvrnnBeta.h"
 
 
 namespace oist {
@@ -84,6 +85,7 @@ class LibNRL {
 	string modelPath;
 	string dataPath;
 	string robotName;
+	string networkName;
 	string strEpoch;
 	string propPath;
 	string modelNUllMsg;

@@ -74,6 +74,7 @@ LibNRL::LibNRL() : dataPrefix("primitive") {
 		modelPath = string("");
 		dataPath = string("");
 		robotName = string("");
+		networkName = string("");
 		strEpoch = string("");
 		propPath = string("");
 		stdoutLog = false;
@@ -150,6 +151,9 @@ LibNRL::LibNRL() : dataPrefix("primitive") {
 
 			if(stringMap.find("datapath") == stringMap.end()) throw Exception("'datapath' property not found");
 			dataPath = stringMap["datapath"];
+
+			if(stringMap.find("network") == stringMap.end()) throw Exception("'network' property not found");
+			networkName = stringMap["network"];
 
 			if(stringMap.find("robot") == stringMap.end()) throw Exception("'robot' property not found");
 			robotName = stringMap["robot"];
@@ -233,7 +237,16 @@ LibNRL::LibNRL() : dataPrefix("primitive") {
 			nDof = ((float)robot->getDOF())*1.0;
 			seqLen = dataset->getPrimLength();
 
-			model = new NetworkPvrnn(float1DMap, dataset);
+			if (networkName == "pvrnn")
+				model = new NetworkPvrnn(float1DMap, dataset);
+			else if (networkName == "pvrnnbeta")
+				model = new NetworkPvrnnBeta(float1DMap, dataset);
+			else{
+				stringstream stream;
+				stream << "unknown 'network' property [" << networkName << "]";
+				throw Exception(stream.str());
+			}
+
 
 		}catch(Exception& _e){
 			cout << "Error: " << _e.what() << endl;
@@ -428,7 +441,7 @@ LibNRL::LibNRL() : dataPrefix("primitive") {
 						  output[6] = 1.0;
 						  ofstream eFile(strEpoch,std::ofstream::out);
 						  if (eFile.is_open()){
-							  eFile << t_step << " " << loss;
+							  eFile << t_step << ut->getDelimiter() << loss;
 							  eFile.close();
 						  }
 						  *logFile<< "The model has been saved" << endl;
@@ -567,7 +580,7 @@ LibNRL::LibNRL() : dataPrefix("primitive") {
 						  model->save(modelPath);
 						  ofstream eFile(strEpoch,std::ofstream::out);
 						  if (eFile.is_open()){
-							  eFile << t_step << " " << loss;
+							  eFile << t_step << ut->getDelimiter() << loss;
 							  eFile.close();
 						  }
 						  *logFile<< "The model has been saved" << endl;
@@ -581,7 +594,7 @@ LibNRL::LibNRL() : dataPrefix("primitive") {
 				  model->save(modelPath);
 				  ofstream eFile(strEpoch,std::ofstream::out);
 				  if (eFile.is_open()){
-					  eFile << t_step << " " << loss;
+					  eFile << t_step << ut->getDelimiter() << loss;
 					  eFile.close();
 				  }
 				  *logFile<< "The model has been saved" << endl;

@@ -147,6 +147,11 @@ void Utils::getProperties(map<string,float1DContainer>& _mapFloat1D, map<string,
 			_mapString["datapath"] = line;
 			continue;
 		}
+		else if (key == "network"){
+			trim(line);
+			_mapString["network"] = line;
+			continue;
+		}
 		else if (key == "robot"){
 			trim(line);
 			_mapString["robot"] = line;

@@ -1,8 +1,10 @@
 datapath=FULL_PATH_TO/data/dataset
 modelpath=FULL_PATH_TO_MODEL_FOLDER
+network=pvrnnbeta
 robot=torobo
 activejoints=1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 nsamples=1,3,2
+w1=0.001,0.001
 w=0.01,0.01
 d=40,10
 z=4,1
