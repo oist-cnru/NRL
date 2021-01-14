@@ -1,6 +1,7 @@
 <map id="oist::LibNRL::t_init" name="oist::LibNRL::t_init">
-<area shape="rect" id="node2" href="$classoist_1_1Utils.html#a37bb8442f7fd888c7ceee7e97b2073fc" title="oist::Utils::getDelimiter" alt="" coords="189,5,345,32"/>
-<area shape="rect" id="node3" href="$classoist_1_1INetwork.html#ae9496c4561db63364613c3c996ea0202" title="oist::INetwork::load" alt="" coords="199,56,335,83"/>
-<area shape="rect" id="node4" href="$classoist_1_1Utils.html#a6e7d1cad7b259c1d2c87a88cb5d5f557" title="oist::Utils::loadContainer" alt="" coords="184,107,351,133"/>
-<area shape="rect" id="node5" href="$classoist_1_1Exception.html#ab3df189eb5fd1870042b3b1a58d2a487" title="oist::Exception::what" alt="" coords="195,157,340,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,136,108"/>
+<area shape="rect" id="node2" href="$classoist_1_1Utils.html#a37bb8442f7fd888c7ceee7e97b2073fc" title=" " alt="" coords="189,5,345,32"/>
+<area shape="rect" id="node3" href="$classoist_1_1INetwork.html#ae9496c4561db63364613c3c996ea0202" title=" " alt="" coords="199,56,335,83"/>
+<area shape="rect" id="node4" href="$classoist_1_1Utils.html#a6e7d1cad7b259c1d2c87a88cb5d5f557" title=" " alt="" coords="184,107,351,133"/>
+<area shape="rect" id="node5" href="$classoist_1_1Exception.html#ace11915680372f90d6b045f250387c8d" title=" " alt="" coords="195,157,340,184"/>
 </map>

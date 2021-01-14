@@ -1,8 +1,7 @@
 <map id="oist::Dataset::Dataset" name="oist::Dataset::Dataset">
-<area shape="rect" id="node2" href="$classoist_1_1Utils.html#a37bb8442f7fd888c7ceee7e97b2073fc" title="oist::Utils::getDelimiter" alt="" coords="217,5,373,32"/>
-<area shape="rect" id="node3" href="$classoist_1_1IRobot.html#ab16e53914494e7de57610b9dc3d2e5e0" title="oist::IRobot::getDOF" alt="" coords="223,56,367,83"/>
-<area shape="rect" id="node4" href="$classoist_1_1IRobot.html#a5af0d831c206066ff8602e6c99d2b26d" title="oist::IRobot::getJointHigh\lLimit" alt="" coords="210,107,381,149"/>
-<area shape="rect" id="node5" href="$classoist_1_1IRobot.html#aef77c906e0fffab0d524e149b416aab8" title="oist::IRobot::getJointLow\lLimit" alt="" coords="211,173,379,214"/>
-<area shape="rect" id="node6" href="$classoist_1_1IRobot.html#a0d357547590ae5b27bf4bfa701610ec1" title="oist::IRobot::getJointRange" alt="" coords="204,239,387,265"/>
-<area shape="rect" id="node7" href="$classoist_1_1Utils.html#a9a5843173d9ec64e91222495366c5db9" title="oist::Utils::split" alt="" coords="240,289,351,316"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,156,124"/>
+<area shape="rect" id="node2" href="$classoist_1_1IRobot.html#ab16e53914494e7de57610b9dc3d2e5e0" title=" " alt="" coords="223,5,367,32"/>
+<area shape="rect" id="node3" href="$classoist_1_1IRobot.html#a5af0d831c206066ff8602e6c99d2b26d" title=" " alt="" coords="210,57,381,98"/>
+<area shape="rect" id="node4" href="$classoist_1_1IRobot.html#aef77c906e0fffab0d524e149b416aab8" title=" " alt="" coords="211,122,379,163"/>
+<area shape="rect" id="node5" href="$classoist_1_1IRobot.html#a0d357547590ae5b27bf4bfa701610ec1" title=" " alt="" coords="204,188,387,215"/>
 </map>

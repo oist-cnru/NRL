@@ -1,11 +1,17 @@
 <map id="oist::LibNRL::newModel" name="oist::LibNRL::newModel">
-<area shape="rect" id="node2" href="$classoist_1_1Utils.html#a37bb8442f7fd888c7ceee7e97b2073fc" title="oist::Utils::getDelimiter" alt="" coords="229,5,385,32"/>
-<area shape="rect" id="node3" href="$classoist_1_1IRobot.html#ab16e53914494e7de57610b9dc3d2e5e0" title="oist::IRobot::getDOF" alt="" coords="235,56,379,83"/>
-<area shape="rect" id="node4" href="$classoist_1_1Torobo.html#a619270a6318c7a0559329d5a61f9eaa2" title="oist::Torobo::getInstance" alt="" coords="224,107,391,133"/>
-<area shape="rect" id="node5" href="$classoist_1_1Cartesian.html#a48fd039bfc35c89f4d903a70658fa9f6" title="oist::Cartesian::getInstance" alt="" coords="216,157,399,184"/>
-<area shape="rect" id="node6" href="$classoist_1_1Generic.html#a394ba0c44b8e2743cf55db5572b717d4" title="oist::Generic::getInstance" alt="" coords="221,208,393,235"/>
-<area shape="rect" id="node7" href="$classoist_1_1Utils.html#abf251dbf955759af26397ff2ea4c376e" title="oist::Utils::getProperties" alt="" coords="226,259,389,285"/>
-<area shape="rect" id="node9" href="$classoist_1_1Utils.html#a6e7d1cad7b259c1d2c87a88cb5d5f557" title="oist::Utils::loadContainer" alt="" coords="224,309,391,336"/>
-<area shape="rect" id="node10" href="$classoist_1_1Exception.html#ab3df189eb5fd1870042b3b1a58d2a487" title="oist::Exception::what" alt="" coords="235,360,380,387"/>
-<area shape="rect" id="node8" href="$classoist_1_1Exception.html#a105853db82a987544a2011e01c7435d3" title="oist::Exception::Exception" alt="" coords="447,259,621,285"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,233,168,260"/>
+<area shape="rect" id="node2" href="$classoist_1_1Dataset.html#af1aac33d71742c21fa51ad54a00477e0" title=" " alt="" coords="216,5,412,32"/>
+<area shape="rect" id="node3" href="$classoist_1_1Utils.html#a37bb8442f7fd888c7ceee7e97b2073fc" title=" " alt="" coords="236,56,392,83"/>
+<area shape="rect" id="node4" href="$classoist_1_1IRobot.html#ab16e53914494e7de57610b9dc3d2e5e0" title=" " alt="" coords="242,107,386,133"/>
+<area shape="rect" id="node5" href="$classoist_1_1Torobo.html#a619270a6318c7a0559329d5a61f9eaa2" title=" " alt="" coords="231,157,397,184"/>
+<area shape="rect" id="node6" href="$classoist_1_1Cartesian.html#a48fd039bfc35c89f4d903a70658fa9f6" title=" " alt="" coords="223,208,405,235"/>
+<area shape="rect" id="node7" href="$classoist_1_1Generic.html#a394ba0c44b8e2743cf55db5572b717d4" title=" " alt="" coords="228,259,400,285"/>
+<area shape="rect" id="node8" href="$classoist_1_1Dataset.html#a50f1b557705129b6fdb8651c9a69f94f" title=" " alt="" coords="219,309,409,336"/>
+<area shape="rect" id="node9" href="$classoist_1_1Utils.html#abf251dbf955759af26397ff2ea4c376e" title=" " alt="" coords="233,360,395,387"/>
+<area shape="rect" id="node14" href="$classoist_1_1Utils.html#a6e7d1cad7b259c1d2c87a88cb5d5f557" title=" " alt="" coords="231,411,397,437"/>
+<area shape="rect" id="node15" href="$classoist_1_1Exception.html#ace11915680372f90d6b045f250387c8d" title=" " alt="" coords="241,461,387,488"/>
+<area shape="rect" id="node10" href="$classoist_1_1Utils.html#a5627806bb880883137d728f8d580671f" title=" " alt="" coords="460,335,588,361"/>
+<area shape="rect" id="node11" href="$classoist_1_1Utils.html#a4ce0ad477d4b903eaee307aa4d84c7a7" title=" " alt="" coords="470,385,578,412"/>
+<area shape="rect" id="node12" href="$classoist_1_1Utils.html#a7b5294a8a8bf68b108bdb8486fd5de19" title=" " alt="" coords="637,360,747,387"/>
+<area shape="rect" id="node13" href="$classoist_1_1Utils.html#a752efdbf159ac9bc5b4b917f0234e53c" title=" " alt="" coords="636,411,748,437"/>
 </map>

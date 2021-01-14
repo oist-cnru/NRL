@@ -1,9 +1,10 @@
 <map id="oist::NetworkPvrnn::NetworkPvrnn" name="oist::NetworkPvrnn::NetworkPvrnn">
-<area shape="rect" id="node2" href="$classoist_1_1ILayer.html#ac999b4e0eb4ea1a1b3f323cc7a5f8b30" title="oist::ILayer::getContext" alt="" coords="203,5,362,32"/>
-<area shape="rect" id="node3" href="$classoist_1_1Utils.html#a7b386375327549f6cabf2fbef1d895ea" title="oist::Utils::getInstance" alt="" coords="205,56,360,83"/>
-<area shape="rect" id="node4" href="$classoist_1_1Dataset.html#ae795a85cea388948bda4c7bf44445340" title="oist::Dataset::getNPrim" alt="" coords="203,107,363,133"/>
-<area shape="rect" id="node5" href="$classoist_1_1Dataset.html#a0e6fb37a69c075a7840e28cef670bfe3" title="oist::Dataset::getNunits\lPerDim" alt="" coords="202,158,363,199"/>
-<area shape="rect" id="node6" href="$classoist_1_1Dataset.html#a50f1b557705129b6fdb8651c9a69f94f" title="oist::Dataset::getPrimLength" alt="" coords="188,224,377,251"/>
-<area shape="rect" id="node7" href="$classoist_1_1ILayer.html#ac670b6862708611202d6cbbeb36752b2" title="oist::ILayer::getStateDim" alt="" coords="199,275,367,301"/>
-<area shape="rect" id="node8" href="$classoist_1_1Utils.html#a9339c4ee5ec9ade69e13cb4e81383d7b" title="oist::Utils::kaiming\l_uniform_initialization" alt="" coords="209,326,356,367"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,158,140,199"/>
+<area shape="rect" id="node2" href="$classoist_1_1ILayer.html#ac999b4e0eb4ea1a1b3f323cc7a5f8b30" title=" " alt="" coords="203,5,362,32"/>
+<area shape="rect" id="node3" href="$classoist_1_1Utils.html#a7b386375327549f6cabf2fbef1d895ea" title=" " alt="" coords="205,56,360,83"/>
+<area shape="rect" id="node4" href="$classoist_1_1Dataset.html#ae795a85cea388948bda4c7bf44445340" title=" " alt="" coords="203,107,363,133"/>
+<area shape="rect" id="node5" href="$classoist_1_1Dataset.html#a0e6fb37a69c075a7840e28cef670bfe3" title=" " alt="" coords="202,158,363,199"/>
+<area shape="rect" id="node6" href="$classoist_1_1Dataset.html#a50f1b557705129b6fdb8651c9a69f94f" title=" " alt="" coords="188,224,377,251"/>
+<area shape="rect" id="node7" href="$classoist_1_1ILayer.html#ac670b6862708611202d6cbbeb36752b2" title=" " alt="" coords="199,275,367,301"/>
+<area shape="rect" id="node8" href="$classoist_1_1Utils.html#a9339c4ee5ec9ade69e13cb4e81383d7b" title=" " alt="" coords="209,326,356,367"/>
 </map>

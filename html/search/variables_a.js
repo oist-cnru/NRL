@@ -1,6 +1,0 @@
-var searchData=
-[
-  ['jmax_830',['jmax',['../classoist_1_1Dataset.html#a23bbefdfc46ef04296d528f5d006f6fb',1,'oist::Dataset::jmax()'],['../classoist_1_1Cartesian.html#aa4d902265cc47ec84032e5bc26423b6d',1,'oist::Cartesian::jmax()'],['../classoist_1_1Generic.html#ad146fb0f74f934fb114b1b44c8902006',1,'oist::Generic::jmax()'],['../classoist_1_1Torobo.html#a92f2e97346731bae5e959b8d49ec201c',1,'oist::Torobo::jmax()']]],
-  ['jmin_831',['jmin',['../classoist_1_1Dataset.html#a133c37ce54525cc8d4c1b78d68a906ff',1,'oist::Dataset::jmin()'],['../classoist_1_1Cartesian.html#a433b17653cdb22b15803d2ecb36cb670',1,'oist::Cartesian::jmin()'],['../classoist_1_1Generic.html#a5891385567ab1cc07fdb7196a19714a7',1,'oist::Generic::jmin()'],['../classoist_1_1Torobo.html#a43a6c6b60090088a2371c4ca3fae7a59',1,'oist::Torobo::jmin()']]],
-  ['jrange_832',['jrange',['../classoist_1_1Dataset.html#a3cd54737767133ab808fa9292baf5851',1,'oist::Dataset::jrange()'],['../classoist_1_1Cartesian.html#a2de22bf4675731d62de01faf788e2f0c',1,'oist::Cartesian::jrange()'],['../classoist_1_1Generic.html#a85a5d8e889da287a4e7c6c3a8d99350f',1,'oist::Generic::jrange()'],['../classoist_1_1Torobo.html#a65de633cfe23a3f515dc2e697aa9f46c',1,'oist::Torobo::jrange()']]]
-];

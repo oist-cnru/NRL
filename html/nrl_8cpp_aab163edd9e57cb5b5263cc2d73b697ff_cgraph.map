@@ -1,10 +1,12 @@
 <map id="t_loop" name="t_loop">
-<area shape="rect" id="node2" href="$classoist_1_1LibNRL.html#abd0b5aa0d6dc4041e93f6355208225b6" title="oist::LibNRL::t_loop" alt="" coords="111,157,249,184"/>
-<area shape="rect" id="node3" href="$classoist_1_1Utils.html#ac670bc700d6d224e06e771046d091edf" title="oist::Utils::shuffle" alt="" coords="326,5,451,32"/>
-<area shape="rect" id="node4" href="$classoist_1_1INetwork.html#a6c84d96fd0b9a86755a77b380408528d" title="oist::INetwork::t_forward" alt="" coords="305,56,472,83"/>
-<area shape="rect" id="node5" href="$classoist_1_1INetwork.html#a7efd7dd4df26c559054cc6cdcc03a4a9" title="oist::INetwork::t_backward" alt="" coords="299,107,478,133"/>
-<area shape="rect" id="node6" href="$classoist_1_1INetwork.html#a38a590c0c6049475d1026719c3b54c7a" title="oist::INetwork::t_optAdam" alt="" coords="301,157,476,184"/>
-<area shape="rect" id="node7" href="$classoist_1_1INetwork.html#ae073a7a49c58e6c1e7b52fcdceb18314" title="oist::INetwork::t_generate" alt="" coords="302,208,475,235"/>
-<area shape="rect" id="node8" href="$classoist_1_1INetwork.html#a54b2d24b0be9b07a4bd76350d9dd74ae" title="oist::INetwork::getRecError" alt="" coords="297,259,480,285"/>
-<area shape="rect" id="node9" href="$classoist_1_1INetwork.html#aa343fbffeb50aa3e1cbd1f8952aa309d" title="oist::INetwork::save" alt="" coords="319,309,459,336"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,63,209"/>
+<area shape="rect" id="node2" href="$classoist_1_1LibNRL.html#abd0b5aa0d6dc4041e93f6355208225b6" title=" " alt="" coords="111,183,249,209"/>
+<area shape="rect" id="node3" href="$classoist_1_1Utils.html#a37bb8442f7fd888c7ceee7e97b2073fc" title=" " alt="" coords="311,5,467,32"/>
+<area shape="rect" id="node4" href="$classoist_1_1INetwork.html#a54b2d24b0be9b07a4bd76350d9dd74ae" title=" " alt="" coords="297,56,480,83"/>
+<area shape="rect" id="node5" href="$classoist_1_1INetwork.html#aa343fbffeb50aa3e1cbd1f8952aa309d" title=" " alt="" coords="319,107,459,133"/>
+<area shape="rect" id="node6" href="$classoist_1_1Utils.html#ac670bc700d6d224e06e771046d091edf" title=" " alt="" coords="326,157,451,184"/>
+<area shape="rect" id="node7" href="$classoist_1_1INetwork.html#a7efd7dd4df26c559054cc6cdcc03a4a9" title=" " alt="" coords="299,208,478,235"/>
+<area shape="rect" id="node8" href="$classoist_1_1INetwork.html#a6c84d96fd0b9a86755a77b380408528d" title=" " alt="" coords="305,259,472,285"/>
+<area shape="rect" id="node9" href="$classoist_1_1INetwork.html#ae073a7a49c58e6c1e7b52fcdceb18314" title=" " alt="" coords="302,309,475,336"/>
+<area shape="rect" id="node10" href="$classoist_1_1INetwork.html#a38a590c0c6049475d1026719c3b54c7a" title=" " alt="" coords="301,360,476,387"/>
 </map>

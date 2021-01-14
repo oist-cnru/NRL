@@ -1,18 +1,36 @@
 <map id="src/standalone/main.cpp" name="src/standalone/main.cpp">
-<area shape="rect" id="node2" href="$includes_8h.html" title="../includes.h" alt="" coords="629,453,723,480"/>
-<area shape="rect" id="node17" href="$LibNRL_8h.html" title="../lib/LibNRL.h" alt="" coords="433,80,540,107"/>
-<area shape="rect" id="node18" href="$Utils_8h.html" title="../utils/Utils.h" alt="" coords="538,304,638,331"/>
-<area shape="rect" id="node30" href="$CircularBuffer_8h.html" title="CircularBuffer.h" alt="" coords="677,80,790,107"/>
-<area shape="rect" id="node16" href="$Exception_8h.html" title="utils/Exception.h" alt="" coords="1213,528,1331,555"/>
-<area shape="rect" id="node19" href="$Cartesian_8h.html" title="../robot/Cartesian.h" alt="" coords="85,229,219,256"/>
-<area shape="rect" id="node21" href="$Torobo_8h.html" title="../robot/Torobo.h" alt="" coords="133,155,251,181"/>
-<area shape="rect" id="node22" href="$Generic_8h.html" title="../robot/Generic.h" alt="" coords="276,155,399,181"/>
-<area shape="rect" id="node23" href="$Dataset_8h.html" title="../dataset/Dataset.h" alt="" coords="412,229,551,256"/>
-<area shape="rect" id="node24" href="$INetwork_8h.html" title="../network/INetwork.h" alt="" coords="677,229,825,256"/>
-<area shape="rect" id="node25" href="$NetworkPvrnn_8h.html" title="../network/NetworkPvrnn.h" alt="" coords="773,155,952,181"/>
-<area shape="rect" id="node20" href="$IRobot_8h.html" title="IRobot.h" alt="" coords="265,304,337,331"/>
-<area shape="rect" id="node26" href="$ILayer_8h.html" title="../layer/ILayer.h" alt="" coords="983,304,1097,331"/>
-<area shape="rect" id="node28" href="$LayerPvrnn_8h.html" title="../layer/LayerPvrnn.h" alt="" coords="901,229,1043,256"/>
-<area shape="rect" id="node29" href="$ContextPvrnn_8h.html" title="../context/ContextPvrnn.h" alt="" coords="735,304,907,331"/>
-<area shape="rect" id="node27" href="$IContext_8h.html" title="../context/IContext.h" alt="" coords="765,379,907,405"/>
+<area shape="rect" id="node1" title=" " alt="" coords="449,5,613,32"/>
+<area shape="rect" id="node2" href="$includes_8h.html" title=" " alt="" coords="727,453,820,480"/>
+<area shape="rect" id="node17" href="$LibNRL_8h.html" title=" " alt="" coords="387,80,493,107"/>
+<area shape="rect" id="node18" href="$Utils_8h.html" title=" " alt="" coords="443,304,543,331"/>
+<area shape="rect" id="node33" href="$CircularBuffer_8h.html" title=" " alt="" coords="569,80,682,107"/>
+<area shape="rect" id="node34" title=" " alt="" coords="707,80,765,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="103,528,175,555"/>
+<area shape="rect" id="node4" title=" " alt="" coords="199,528,265,555"/>
+<area shape="rect" id="node5" title=" " alt="" coords="289,528,359,555"/>
+<area shape="rect" id="node6" title=" " alt="" coords="383,528,438,555"/>
+<area shape="rect" id="node7" title=" " alt="" coords="463,528,537,555"/>
+<area shape="rect" id="node8" title=" " alt="" coords="561,528,620,555"/>
+<area shape="rect" id="node9" title=" " alt="" coords="645,528,710,555"/>
+<area shape="rect" id="node10" title=" " alt="" coords="734,528,813,555"/>
+<area shape="rect" id="node11" title=" " alt="" coords="837,528,899,555"/>
+<area shape="rect" id="node12" title=" " alt="" coords="923,528,986,555"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1010,528,1057,555"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1081,528,1164,555"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1189,528,1286,555"/>
+<area shape="rect" id="node16" href="$Exception_8h.html" title=" " alt="" coords="1310,528,1429,555"/>
+<area shape="rect" id="node19" href="$Cartesian_8h.html" title=" " alt="" coords="145,229,279,256"/>
+<area shape="rect" id="node21" href="$Torobo_8h.html" title=" " alt="" coords="209,155,327,181"/>
+<area shape="rect" id="node22" href="$Generic_8h.html" title=" " alt="" coords="45,155,168,181"/>
+<area shape="rect" id="node23" href="$Dataset_8h.html" title=" " alt="" coords="304,229,443,256"/>
+<area shape="rect" id="node24" href="$INetwork_8h.html" title=" " alt="" coords="1185,229,1333,256"/>
+<area shape="rect" id="node25" href="$NetworkPvrnn_8h.html" title=" " alt="" coords="601,155,780,181"/>
+<area shape="rect" id="node30" href="$NetworkPvrnnBeta_8h.html" title=" " alt="" coords="921,155,1127,181"/>
+<area shape="rect" id="node20" href="$IRobot_8h.html" title=" " alt="" coords="176,304,248,331"/>
+<area shape="rect" id="node26" href="$ILayer_8h.html" title=" " alt="" coords="866,304,979,331"/>
+<area shape="rect" id="node28" href="$LayerPvrnn_8h.html" title=" " alt="" coords="619,229,762,256"/>
+<area shape="rect" id="node29" href="$ContextPvrnn_8h.html" title=" " alt="" coords="670,304,842,331"/>
+<area shape="rect" id="node27" href="$IContext_8h.html" title=" " alt="" coords="837,379,979,405"/>
+<area shape="rect" id="node31" href="$LayerPvrnnBeta_8h.html" title=" " alt="" coords="939,229,1109,256"/>
+<area shape="rect" id="node32" href="$ContextPvrnnBeta_8h.html" title=" " alt="" coords="1054,304,1253,331"/>
 </map>

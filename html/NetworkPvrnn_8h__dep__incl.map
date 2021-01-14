@@ -1,7 +1,8 @@
 <map id="src/network/NetworkPvrnn.h" name="src/network/NetworkPvrnn.h">
-<area shape="rect" id="node2" href="$LibNRL_8h.html" title="src/lib/LibNRL.h" alt="" coords="151,80,267,107"/>
-<area shape="rect" id="node6" href="$NetworkPvrnn_8cpp.html" title="src/network/NetworkPvrnn.cpp" alt="" coords="292,80,495,107"/>
-<area shape="rect" id="node3" href="$LibNRL_8cpp.html" title="src/lib/LibNRL.cpp" alt="" coords="5,155,136,181"/>
-<area shape="rect" id="node4" href="$nrl_8cpp.html" title="src/lib/nrl.cpp" alt="" coords="159,155,259,181"/>
-<area shape="rect" id="node5" href="$main_8cpp.html" title="src/standalone/main.cpp" alt="" coords="283,155,447,181"/>
+<area shape="rect" id="node1" title=" " alt="" coords="207,5,395,32"/>
+<area shape="rect" id="node2" href="$LibNRL_8h.html" title=" " alt="" coords="151,80,267,107"/>
+<area shape="rect" id="node6" href="$NetworkPvrnn_8cpp.html" title=" " alt="" coords="292,80,495,107"/>
+<area shape="rect" id="node3" href="$LibNRL_8cpp.html" title=" " alt="" coords="5,155,136,181"/>
+<area shape="rect" id="node4" href="$nrl_8cpp.html" title=" " alt="" coords="159,155,259,181"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title=" " alt="" coords="283,155,447,181"/>
 </map>

@@ -1,4 +1,5 @@
 <map id="oist::NetworkPvrnn::a_feedForwardOutputFromContext" name="oist::NetworkPvrnn::a_feedForwardOutputFromContext">
-<area shape="rect" id="node2" href="$classoist_1_1Dataset.html#a7569a624c292a36313f4c62886ada745" title="oist::Dataset::decodeSoftmax" alt="" coords="284,5,480,32"/>
-<area shape="rect" id="node3" href="$classoist_1_1Utils.html#a5ca43754226f35ae74868b54d29235e9" title="oist::Utils::softmax" alt="" coords="315,56,449,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,236,65"/>
+<area shape="rect" id="node2" href="$classoist_1_1Dataset.html#a7569a624c292a36313f4c62886ada745" title=" " alt="" coords="284,5,480,32"/>
+<area shape="rect" id="node3" href="$classoist_1_1Utils.html#a5ca43754226f35ae74868b54d29235e9" title=" " alt="" coords="315,56,449,83"/>
 </map>

@@ -9,13 +9,13 @@
 #  modification, are permitted provided that the following conditions
 #  are met:
 #
-#   # Redistributions of source code must retain the above copyright
+#   * Redistributions of source code must retain the above copyright
 #     notice, this list of conditions and the following disclaimer.
-#   # Redistributions in binary form must reproduce the above
+#   * Redistributions in binary form must reproduce the above
 #     copyright notice, this list of conditions and the following
 #     disclaimer in the documentation and/or other materials provided
 #     with the distribution.
-#   # Neither the name of Willow Garage, Inc. nor the names of its
+#   * Neither the name of Willow Garage, Inc. nor the names of its
 #     contributors may be used to endorse or promote products derived
 #     from this software without specific prior written permission.
 #
@@ -36,10 +36,9 @@
 #
 # Publication:
 #
-#   "Towards hybrid primary intersubjectivity: a neural robotics 
-#   library for human science"
-#
-#   Hendry F. Chame, Ahmadreza Ahmadi, Jun Tani
+#   Chame, H. F., Ahmadi, A., & Tani, J. (2020).
+#   A hybrid human-neurorobotics approach to primary intersubjectivity via
+#   active inference. Frontiers in psychology, 11.
 #
 #   Okinawa Institute of Science and Technology Graduate University (OIST)
 #   Cognitive Neurorobotics Research Unit (CNRU)

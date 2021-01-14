@@ -1,10 +1,15 @@
 <map id="src/layer/ILayer.h" name="src/layer/ILayer.h">
-<area shape="rect" id="node2" href="$LayerPvrnn_8h.html" title="src/layer/LayerPvrnn.h" alt="" coords="110,80,263,107"/>
-<area shape="rect" id="node4" href="$NetworkPvrnn_8h.html" title="src/network/NetworkPvrnn.h" alt="" coords="207,155,395,181"/>
-<area shape="rect" id="node3" href="$LayerPvrnn_8cpp.html" title="src/layer/LayerPvrnn.cpp" alt="" coords="17,155,183,181"/>
-<area shape="rect" id="node5" href="$LibNRL_8h.html" title="src/lib/LibNRL.h" alt="" coords="151,229,267,256"/>
-<area shape="rect" id="node9" href="$NetworkPvrnn_8cpp.html" title="src/network/NetworkPvrnn.cpp" alt="" coords="292,229,495,256"/>
-<area shape="rect" id="node6" href="$LibNRL_8cpp.html" title="src/lib/LibNRL.cpp" alt="" coords="5,304,136,331"/>
-<area shape="rect" id="node7" href="$nrl_8cpp.html" title="src/lib/nrl.cpp" alt="" coords="159,304,259,331"/>
-<area shape="rect" id="node8" href="$main_8cpp.html" title="src/standalone/main.cpp" alt="" coords="283,304,447,331"/>
+<area shape="rect" id="node1" title=" " alt="" coords="394,5,517,32"/>
+<area shape="rect" id="node2" href="$LayerPvrnn_8h.html" title=" " alt="" coords="200,80,353,107"/>
+<area shape="rect" id="node4" href="$NetworkPvrnn_8h.html" title=" " alt="" coords="196,162,384,189"/>
+<area shape="rect" id="node10" href="$LayerPvrnnBeta_8h.html" title=" " alt="" coords="429,80,609,107"/>
+<area shape="rect" id="node12" href="$NetworkPvrnnBeta_8h.html" title=" " alt="" coords="628,155,805,196"/>
+<area shape="rect" id="node3" href="$LayerPvrnn_8cpp.html" title=" " alt="" coords="5,162,172,189"/>
+<area shape="rect" id="node5" href="$LibNRL_8h.html" title=" " alt="" coords="452,251,568,278"/>
+<area shape="rect" id="node9" href="$NetworkPvrnn_8cpp.html" title=" " alt="" coords="189,251,391,278"/>
+<area shape="rect" id="node6" href="$LibNRL_8cpp.html" title=" " alt="" coords="306,333,437,360"/>
+<area shape="rect" id="node7" href="$nrl_8cpp.html" title=" " alt="" coords="460,333,560,360"/>
+<area shape="rect" id="node8" href="$main_8cpp.html" title=" " alt="" coords="584,333,748,360"/>
+<area shape="rect" id="node11" href="$LayerPvrnnBeta_8cpp.html" title=" " alt="" coords="409,162,603,189"/>
+<area shape="rect" id="node13" href="$NetworkPvrnnBeta_8cpp.html" title=" " alt="" coords="628,244,805,285"/>
 </map>

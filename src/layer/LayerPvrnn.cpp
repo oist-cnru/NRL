@@ -36,10 +36,9 @@
 
  Publication:
 
-   "Towards hybrid primary intersubjectivity: a neural robotics 
-   library for human science"
-
-   Hendry F. Chame, Ahmadreza Ahmadi, Jun Tani
+   Chame, H. F., Ahmadi, A., & Tani, J. (2020).
+   A hybrid human-neurorobotics approach to primary intersubjectivity via
+   active inference. Frontiers in psychology, 11.
 
    Okinawa Institute of Science and Technology Graduate University (OIST)
    Cognitive Neurorobotics Research Unit (CNRU)
